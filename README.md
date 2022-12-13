@@ -32,7 +32,7 @@ unzip matriochka.zip
 
 ok we have an ohter txt file...
 
-you see the thing come, let's be smart and do automaticly the things !
+you see the thing come, let's be smart and do automaticly do the things !
 
 
 ```bash
